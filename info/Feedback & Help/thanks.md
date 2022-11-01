@@ -30,6 +30,7 @@ Last Updated: 2022-10-08 01:52 AM EDT
 <li><a href="https://ben.url.lol/omgthanks">Ben</a> for identifying a bug with the TLS certificate workflow</li>
 <li><a href="https://musa.omg.lol">Musa</a> for identifying a bug with the checkout process</li>
 <li><a href="https://jamiethalacker.omg.lol/">Jamie</a> for identifying a bug with the checkout process</li>
+<li><a href="https://bye.omg.lol">Bye</a> for noticing a bug with expired domains</li>
 </ul>
 
 <p>Want to get on this list? Report any bugs to <a href="mailto:bugs@omg.lol">bugs@omg.lol</a>.</p>
